@@ -7,3 +7,4 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
 - Pre-request scripts for data setup
 - Test scripts for validations
 ## API Documentation
+- https://documenter.getpostman.com/view/46763324/2sB3BHjTYt
