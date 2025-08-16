@@ -11,4 +11,12 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
 ### **Technoloy Used**
 - Postman
 - Newman
+### **Prerequisite**
+- Node.js
+- Newman
+- Newman html Report Library
+### **Installation**
+1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
+2. Clone the repository:
+
 
