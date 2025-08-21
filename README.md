@@ -21,5 +21,9 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
  ```console 
   [git clone https://github.com/aminulislamtutul/opencart_RestAPI_modelcart_with_Newman_Report.git]
 ```
+3. Import the Postman collection:
+    - Open Postman.
+    - Click on the Import button.
+    - Select the file from the repository.
 
 
