@@ -23,6 +23,15 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
 ```
 3. Import the Postman collection:
     - Open Postman.
+5. Newman and Report Installation Process:
+    - Newman Install Command:
+     ```console 
+      npm install -g newman
+    ```
+    - Newman html Report Install Command:
+     ```console 
+      npm install -g newman-reporter-htmlextra
+    ```
     - Click on the Import button.
     - Select the file from the repository.
 4. Import the Postman environment:
