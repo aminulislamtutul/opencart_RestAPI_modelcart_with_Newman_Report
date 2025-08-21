@@ -25,5 +25,8 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
     - Open Postman.
     - Click on the Import button.
     - Select the file from the repository.
+4. Import the Postman environment:
+    - In Postman, click on the gear icon in the top right corner.
+    - Select **Import** and choose the file.
 
 
