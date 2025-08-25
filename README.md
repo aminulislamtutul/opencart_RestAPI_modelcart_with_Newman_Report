@@ -37,3 +37,11 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
      ```console 
       npm install -g newman-reporter-htmlextra
     ```
+### **Usage**
+1. Select Environment:
+    -   In Postman, select the appropriate environment (e.g., Development, Production) from the top-right dropdown.
+2. Run Collection:
+    -   Select the imported collection from the Collections sidebar.
+    -   Click on the Runner button to open the collection runner.
+    -   Select the desired environment.
+    -   Click Start Test to run the collection.
