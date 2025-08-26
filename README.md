@@ -51,3 +51,4 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
 ## **Testing**
 
 ## Test Case Scenarios:
+## _**1. Create session/Token**_
