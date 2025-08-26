@@ -53,3 +53,4 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
 ## Test Case Scenarios:
 ## _**1. Create session/Token**_
 ### Request URL: http://192.168.0.106/opencart/upload/index.php?route=/api/login
+### Request Method: POST
