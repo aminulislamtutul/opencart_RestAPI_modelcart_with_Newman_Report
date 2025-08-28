@@ -64,3 +64,9 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
 ## _**2. Add product to the cart**_
 ### Request URL: http://192.168.0.106/opencart/upload/index.php?route=api/cart/add
 ### Request Method: POST
+ **Response Body:**
+ ```console
+{
+    "success": "Success: You have modified your shopping cart!"
+}
+```
