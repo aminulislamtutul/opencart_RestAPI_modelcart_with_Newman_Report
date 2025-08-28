@@ -61,3 +61,4 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
     "api_token": "a075009d265d79b8773e9655bc"
 }
 ```
+## _**2. Add product to the cart**_
