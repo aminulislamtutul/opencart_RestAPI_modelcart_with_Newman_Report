@@ -136,6 +136,8 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
 <img width="625" height="413" alt="Screenshot 2025-09-25 173354" src="https://github.com/user-attachments/assets/4ac20243-6ffe-4a58-8c64-5a694408f8b1" />
 <img width="625" height="419" alt="Screenshot 2025-09-25 173428" src="https://github.com/user-attachments/assets/5a0c368d-6123-4f6a-9209-d44c6183e0a0" />
 <img width="625" height="158" alt="Screenshot 2025-09-25 173628" src="https://github.com/user-attachments/assets/c84a03f4-df52-4a59-9e2d-b4e1efbd91a2" />
+<img width="625" height="155" alt="Screenshot 2025-09-25 173649" src="https://github.com/user-attachments/assets/5c4202c6-9cc8-4cfc-b0d5-6e61c1d2dc9c" />
+
 
 
 
