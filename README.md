@@ -123,4 +123,13 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
   "success": "Success: You have modified your shopping cart!"
 }
 ```
+## _**3. Remove Cart Content**_
+### Request URL: http://192.168.0.106/opencart/upload/index.php?route=api/cart/remove
+### Request Method: POST
+ **Response Body:**
+```console
+{
+  "success": "Success: You have modified your shopping cart!"
+}
+```
 
