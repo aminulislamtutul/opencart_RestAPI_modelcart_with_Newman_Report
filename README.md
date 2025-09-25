@@ -70,3 +70,47 @@ OpenCart is a free open-source e-commerce platform for online merchants. OpenCar
     "success": "Success: You have modified your shopping cart!"
 }
 ```
+## _**3. Cart Content**_
+### Request URL: http://192.168.0.106/opencart/upload/index.php?route=api/cart/products
+### Request Method: GET
+ **Response Body:**
+ ```console
+{
+    {
+  "products": [
+    {
+      "cart_id": "11",
+      "product_id": "40",
+      "name": "iPhone",
+      "model": "product 11",
+      "option": [],
+      "quantity": "1",
+      "stock": true,
+      "shipping": "1",
+      "price": "$123.20",
+      "total": "$123.20",
+      "reward": 0
+    }
+  ],
+  "vouchers": [],
+  "totals": [
+    {
+      "title": "Sub-Total",
+      "text": "$101.00"
+    },
+    {
+      "title": "Eco Tax (-2.00)",
+      "text": "$2.00"
+    },
+    {
+      "title": "VAT (20%)",
+      "text": "$20.20"
+    },
+    {
+      "title": "Total",
+      "text": "$123.20"
+    }
+  ]
+}
+}
+```
